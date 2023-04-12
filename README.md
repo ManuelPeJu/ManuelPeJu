@@ -9,5 +9,7 @@ Actualmente estoy buscando trabajo para elevar mis habilidades en los campos ant
 Contacta conmigo!
 
 const LinkedIn = () => { https://www.linkedin.com/in/manuel-pérez-jurado/ } 
+
 const Email = () => { perezjuradomanuel@gmail.com } 
+
 const Teléfono = () => { +34 684 33 88 60 }
