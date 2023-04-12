@@ -13,3 +13,18 @@ const LinkedIn = () => { https://www.linkedin.com/in/manuel-pérez-jurado/ }
 const Email = () => { perezjuradomanuel@gmail.com } 
 
 const Teléfono = () => { +34 684 33 88 60 }
+
+
+Hello!!
+
+My name is Manuel, I am a Junior Full Stack web developer. I mainly use the technologies of React.js, Redux.js, Bootstrap, SASS, Node.js, Express, PostgresSQL, MySQL, Sequelize..., but I would have no problem learning other technology if necessary.
+
+I am currently looking for a job to improve my skills in the aforementioned fields, with the aim of improving as a programmer, a person and a useful resource for companies.
+
+Contact me!
+
+const LinkedIn = () => { https://www.linkedin.com/in/manuel-pérez-jurado/ }
+
+const Email = () => { perezjuradomanuel@gmail.com }
+
+const Phone = () => { +34 684 33 88 60 }
