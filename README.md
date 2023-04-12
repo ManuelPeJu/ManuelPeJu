@@ -15,7 +15,7 @@ const Email = () => { perezjuradomanuel@gmail.com }
 const Teléfono = () => { +34 684 33 88 60 }
 
 
-Hello!!
+Hey!!
 
 My name is Manuel, I am a Junior Full Stack web developer. I mainly use the technologies of React.js, Redux.js, Bootstrap, SASS, Node.js, Express, PostgresSQL, MySQL, Sequelize..., but I would have no problem learning other technology if necessary.
 
