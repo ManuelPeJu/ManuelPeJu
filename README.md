@@ -6,4 +6,5 @@ Actualmente estoy buscando trabajo para elevar mis habilidades en los campos ant
 
 
 Contacta conmigo!
+
 -const LinkedIn = () => { https://www.linkedin.com/in/manuel-pérez-jurado/ } 
