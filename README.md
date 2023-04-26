@@ -12,7 +12,6 @@ const LinkedIn = () => { https://www.linkedin.com/in/manuel-pérez-jurado/ }
 
 const Email = () => { perezjuradomanuel@gmail.com } 
 
-const Teléfono = () => { +34 684 33 88 60 }
 
 
 Hey!!
@@ -27,4 +26,3 @@ const LinkedIn = () => { https://www.linkedin.com/in/manuel-pérez-jurado/ }
 
 const Email = () => { perezjuradomanuel@gmail.com }
 
-const Phone = () => { +34 684 33 88 60 }
