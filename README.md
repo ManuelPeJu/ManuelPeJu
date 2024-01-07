@@ -26,7 +26,11 @@ I am currently looking for a job to improve my skills in the aforementioned fiel
 
 Contact me!
 
-const LinkedIn = () => { https://www.linkedin.com/in/manuel-pérez-jurado/ }
+const LinkedIn = () => { 
+  window.open("https://www.linkedin.com/in/manuel-pérez-jurado"/) 
+  } 
 
-const Email = () => { perezjuradomanuel@gmail.com }
+const Email = () => { 
+  window.open("perezjuradomanuel@gmail.com")
+} 
 
