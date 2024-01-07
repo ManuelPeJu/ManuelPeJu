@@ -8,9 +8,13 @@ Actualmente estoy buscando trabajo para elevar mis habilidades en los campos ant
 
 Contacta conmigo!
 
-const LinkedIn = () => { https://www.linkedin.com/in/manuel-pérez-jurado/ } 
+const LinkedIn = () => { 
+  window.open("https://www.linkedin.com/in/manuel-pérez-jurado"/) 
+  } 
 
-const Email = () => { perezjuradomanuel@gmail.com } 
+const Email = () => { 
+  window.open("perezjuradomanuel@gmail.com")
+} 
 
 
 
