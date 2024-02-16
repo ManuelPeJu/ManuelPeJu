@@ -9,7 +9,7 @@ Actualmente estoy buscando trabajo para elevar mis habilidades en los campos ant
 Contacta conmigo!
 
 const LinkedIn = () => { 
-  window.open("https://www.linkedin.com/in/manuel-pérez-jurado"/) 
+  window.open("https://www.linkedin.com/in/manuel-pérez-jurado/") 
   } 
 
 const Email = () => { 
@@ -27,7 +27,7 @@ I am currently looking for a job to improve my skills in the aforementioned fiel
 Contact me!
 
 const LinkedIn = () => { 
-  window.open("https://www.linkedin.com/in/manuel-pérez-jurado"/) 
+  window.open("https://www.linkedin.com/in/manuel-pérez-jurado/") 
   } 
 
 const Email = () => { 
